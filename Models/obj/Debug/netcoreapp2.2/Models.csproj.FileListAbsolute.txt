@@ -1,0 +1,9 @@
+D:\code\Asp.net\WeatherStationApi\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+D:\code\Asp.net\WeatherStationApi\Models\bin\Debug\netcoreapp2.2\Models.dll
+D:\code\Asp.net\WeatherStationApi\Models\bin\Debug\netcoreapp2.2\Models.pdb
+D:\code\Asp.net\WeatherStationApi\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+D:\code\Asp.net\WeatherStationApi\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+D:\code\Asp.net\WeatherStationApi\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+D:\code\Asp.net\WeatherStationApi\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+D:\code\Asp.net\WeatherStationApi\Models\obj\Debug\netcoreapp2.2\Models.dll
+D:\code\Asp.net\WeatherStationApi\Models\obj\Debug\netcoreapp2.2\Models.pdb
